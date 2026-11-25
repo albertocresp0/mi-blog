@@ -12,6 +12,6 @@ Más allá de sus monumentos, lo que hace inolvidable un viaje a Cuenca es la se
 La ruta se completa descendiendo hacia los rincones más frescos de la serranía, donde pequeños arroyos de aguas cristalinas van formando cascadas y pozas cubiertas de musgo entre los árboles.
 
 <figure class="post-inline-photo">
-  <img src="{{ '/assets/img/IMG_3356.jpg' | relative_url }}" alt="Pequeño salto de agua cristalina rodeado de vegetación en la Serranía de Cuenca">
+  <img src="{{ '/assets/img/IMG_3356.jpeg' | relative_url }}" alt="Pequeño salto de agua cristalina rodeado de vegetación en la Serranía de Cuenca">
   <figcaption>Pozas y pequeños saltos de agua entre la vegetación de ribera.</figcaption>
 </figure>
