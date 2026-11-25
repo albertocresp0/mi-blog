@@ -1,7 +1,14 @@
 ---
 layout: default
 ---
-<article class="post-full">
+{% if page.bg_image %}
+<div class="post-bg-wrapper" aria-hidden="true">
+  <div class="post-bg-image" style="background-image: url('{{ site.baseurl }}{{ page.bg_image }}');"></div>
+  <div class="post-bg-overlay"></div>
+</div>
+{% endif %}
+
+<article class="post-full {% if page.bg_image %}post-full--over-bg{% endif %}">
   <header class="post-header">
     <p class="post-meta">Publicado el {{ page.date | date: "%d/%m/%Y" }}</p>
     <h1>{{ page.title }}</h1>
