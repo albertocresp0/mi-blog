@@ -1,7 +1,0 @@
-title: "Bitácora de Desarrollo Web"
-description: "Notas prácticas sobre HTML5, CSS3, diseño adaptativo y generación de sitios estáticos."
-baseurl: "/mi-blog"
-url: "https://albertocresp0.github.io"
-
-markdown: kramdown
-permalink: /entradas/:year-:month-:day-:title/
