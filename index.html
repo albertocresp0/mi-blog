@@ -1,1 +1,29 @@
+---
+layout: default
+title: Inicio
+---
+<section class="hero">
+  <h1>{{ site.title }}</h1>
+  <p>{{ site.description }}</p>
+</section>
 
+<section class="posts-section" aria-label="Entradas del viaje">
+  <h2>Etapas del viaje</h2>
+  <div class="posts-grid">
+    {% for post in site.posts %}
+    <article class="post-card">
+      {% if post.image %}
+      <a class="post-card-img-link" href="{{ post.url | relative_url }}">
+        <img src="{{ post.image | relative_url }}" alt="{{ post.image_alt | escape }}">
+      </a>
+      {% endif %}
+      <div class="post-card-content">
+        <span class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</span>
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <p>{{ post.excerpt | strip_html | truncate: 145 }}</p>
+        <a class="read-more" href="{{ post.url | relative_url }}">Leer crónica &rarr;</a>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+</section>
