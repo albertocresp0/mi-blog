@@ -1,0 +1,7 @@
+title: "Cuaderno de Viaje: Cuenca"
+description: "Crónica fotográfica de mi escapada por la ciudad de Cuenca, la Ciudad Encantada y la Serranía."
+baseurl: "/mi-blog"
+url: "https://albertocresp0.github.io"
+
+markdown: kramdown
+permalink: /entradas/:year-:month-:day-:title/
