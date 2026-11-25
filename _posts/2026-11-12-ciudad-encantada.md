@@ -3,7 +3,7 @@ layout: post
 title: "La Ciudad Encantada y sus esculturas de piedra"
 date: 2026-11-12
 image: /assets/img/IMG_3399.jpeg
-bg_image: /assets/img/IMG_3434.jpeg
+bg_image: /assets/img/IMG_.jpeg
 image_alt: "El Tormo Alto de la Ciudad Encantada de Cuenca"
 image_caption: "El emblemático Tormo Alto, símbolo de la Ciudad Encantada."
 ---
@@ -15,6 +15,6 @@ El **Tormo Alto**, con su aspecto rotundo enmarcado entre pinares, es una de las
 A lo largo del sendero el paisaje se abre sobre extensas plataformas de roca caliza grisácea rodeadas de bosque mediterráneo, hacer el recorrido con calma permite disfrutar tanto de las figuras más conocidas como de los rincones más tranquilos entre pinos, donde el silencio y el paisaje de montaña convierten la visita en un plan perfecto si lo que buscas es desconectar.
 
 <figure class="post-inline-photo">
-  <img src="{{ '/assets/img/IMG_3434.jpeg' | relative_url }}" alt="Paisaje kárstico de roca caliza y pinares en la Ciudad Encantada">
+  <img src="{{ '/assets/img/IMG_3427.jpeg' | relative_url }}" alt="Paisaje kárstico de roca caliza y pinares en la Ciudad Encantada">
   <figcaption>Plataformas de piedra caliza y pinares en la parte alta del recorrido.</figcaption>
 </figure>
