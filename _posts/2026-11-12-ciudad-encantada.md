@@ -3,7 +3,7 @@ layout: post
 title: "La Ciudad Encantada y sus esculturas de piedra"
 date: 2026-11-12
 image: /assets/img/IMG_3399.jpeg
-bg_image: /assets/img/IMG_.jpeg
+bg_image: /assets/img/IMG_3372.jpeg
 image_alt: "El Tormo Alto de la Ciudad Encantada de Cuenca"
 image_caption: "El emblemático Tormo Alto, símbolo de la Ciudad Encantada."
 ---
