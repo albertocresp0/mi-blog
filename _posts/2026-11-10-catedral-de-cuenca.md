@@ -2,7 +2,7 @@
 layout: post
 title: "La Catedral de Cuenca: historia y luz en el casco antiguo"
 date: 2026-11-10
-image: /assets/img/IMG_3266.jpg
+image: /assets/img/IMG_3266.jepg
 image_alt: "Fachada principal de la Catedral de Santa María y San Julián de Cuenca"
 image_caption: "Fachada de la Catedral de Cuenca en la Plaza Mayor."
 ---
