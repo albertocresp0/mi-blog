@@ -10,6 +10,7 @@ image_caption: "Fachada de la Catedral de Cuenca en la Plaza Mayor."
 Recorrer el casco antiguo de Cuenca supone encontrarse cara a cara con la imponente **Catedral de Santa María y San Julián** en plena Plaza Mayor. Su fachada neogótica, con sus grandes arcos apuntados y el rosetón central recortándose contra el cielo azul, marca el punto de partida perfecto para descubrir la ciudad.
 
 Al cruzar sus puertas, el interior sorprende por la altura de sus bóvedas góticas, la luz filtrada por las vidrieras y el contraste con los retablos barrocos que custodian la nave principal.
+Además de su valor histórico, visitar la catedral permite entender cómo se organiza el corazón monumental de la ciudad: desde su entorno se abren callejones empinados, miradores y rincones llenos de historia que hacen que cada paso valga la pena.
 
 <figure class="post-inline-photo">
   <img src="{{ '/assets/img/IMG_3258.jpeg' | relative_url }}" alt="Interior de las bóvedas góticas y altar mayor de la Catedral de Cuenca">
