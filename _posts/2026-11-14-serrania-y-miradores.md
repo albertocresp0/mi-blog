@@ -2,7 +2,7 @@
 layout: post
 title: "Miradores y senderos de agua en la Serranía de Cuenca"
 date: 2026-11-14
-image: /assets/img/IMG_3181.jpg
+image: /assets/img/IMG_3181.jpeg
 image_alt: "Vista panorámica de las hoces y paredes rocosas de la Serranía de Cuenca"
 image_caption: "Panorámica sobre los cortados rocosos y pinares de la hoz."
 ---
