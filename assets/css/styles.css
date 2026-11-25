@@ -264,14 +264,14 @@ a:hover {
   height: 100%;
   background-size: cover;
   background-position: center;
-  filter: blur(14px) saturate(1.1);
-  transform: scale(1.08);
+  filter: blur(4px) saturate(1.08);
+  transform: scale(1.03);
 }
 
 .post-bg-overlay {
   position: absolute;
   inset: 0;
-  background-color: rgba(247, 245, 240, 0.72);
+  background-color: rgba(247, 245, 240, 0.45);
 }
 
 .post-full--over-bg {
