@@ -1,1 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="site-brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <nav class="site-nav" aria-label="Navegación principal">
+        <a href="{{ '/' | relative_url }}">Inicio</a>
+        <a href="{{ '/entradas/2026-11-10-catedral-de-cuenca/' | relative_url }}">Catedral</a>
+        <a href="{{ '/entradas/2026-11-12-ciudad-encantada/' | relative_url }}">Ciudad Encantada</a>
+        <a href="{{ '/entradas/2026-11-14-serrania-y-miradores/' | relative_url }}">Serranía</a>
+      </nav>
+    </div>
+  </header>
 
+  <main class="container main-content">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>{{ site.title }} — Diario de viaje por Cuenca (2026).</p>
+    </div>
+  </footer>
+</body>
+</html>
