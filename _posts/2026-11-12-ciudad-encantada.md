@@ -11,7 +11,7 @@ A pocos kilómetros de la capital, el paraje natural de la **Ciudad Encantada** 
 
 El **Tormo Alto**, con su aspecto rotundo enmarcado entre pinares, es una de las estampas más icónicas del paseo.
 
-A lo largo del sendero el paisaje se abre sobre extensas plataformas de roca caliza grisácea rodeadas de bosque mediterráneo, mostrando cómo la erosión kárstica ha ido tallando pasadizos y miradores naturales.
+A lo largo del sendero el paisaje se abre sobre extensas plataformas de roca caliza grisácea rodeadas de bosque mediterráneo, hacer el recorrido con calma permite disfrutar tanto de las figuras más conocidas como de los rincones más tranquilos entre pinos, donde el silencio y el paisaje de montaña convierten la visita en un plan perfecto si lo que buscas es desconectar.
 
 <figure class="post-inline-photo">
   <img src="{{ '/assets/img/IMG_3434.jpeg' | relative_url }}" alt="Paisaje kárstico de roca caliza y pinares en la Ciudad Encantada">
