@@ -9,7 +9,7 @@ image_caption: "Panorámica sobre los cortados rocosos y pinares de la hoz."
 
 Más allá de sus monumentos, lo que hace inolvidable un viaje a Cuenca es la sensación de asomarse a sus **hoces y miradores**. Desde lo alto se puede observar todo el valle cubierto de pinos, flanqueado por paredes verticales de piedra caliza que cambian de tono según avanza el día.
 
-La ruta se completa descendiendo hacia los rincones más frescos de la serranía, donde pequeños arroyos de aguas cristalinas van formando cascadas y pozas cubiertas de musgo entre los árboles.
+Una visita obligada es el nacimiento del rio Cuervo, en donde el agua subterránea cargada de carbonato cálcico ha ido erosionando poco a poco la roca (en esta zona en concreto, toba calcárea) creando las formaciones características de la zona.
 
 <figure class="post-inline-photo">
   <img src="{{ '/assets/img/IMG_3356.jpeg' | relative_url }}" alt="Pequeño salto de agua cristalina rodeado de vegetación en la Serranía de Cuenca">
