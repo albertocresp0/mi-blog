@@ -8,6 +8,13 @@ bg_image: /assets/img/IMG_3210.jpeg
   <p>{{ site.description }}</p>
 </section>
 
+{% if page.bg_image %}
+<div class="post-bg-wrapper" aria-hidden="true">
+  <div class="post-bg-image" style="background-image: url('{{ site.baseurl }}{{ page.bg_image }}');"></div>
+  <div class="post-bg-overlay"></div>
+</div>
+{% endif %}
+
 <section class="posts-section" aria-label="Entradas del viaje">
   <h2>Etapas del viaje</h2>
   <div class="posts-grid">
