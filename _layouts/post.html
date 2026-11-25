@@ -1,1 +1,34 @@
+---
+layout: default
+---
+<article class="post-full">
+  <header class="post-header">
+    <p class="post-meta">Publicado el {{ page.date | date: "%d/%m/%Y" }}</p>
+    <h1>{{ page.title }}</h1>
+  </header>
 
+  {% if page.image %}
+  <figure class="post-hero">
+    <img src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.image_alt | escape }}">
+    {% if page.image_caption %}
+    <figcaption>{{ page.image_caption }}</figcaption>
+    {% endif %}
+  </figure>
+  {% endif %}
+
+  <div class="post-body">
+    {{ content }}
+  </div>
+
+  <nav class="post-pagination" aria-label="Navegación entre entradas">
+    {% if page.previous.url %}
+      <a class="btn-link" href="{{ site.baseurl }}{{ page.previous.url }}">&larr; {{ page.previous.title }}</a>
+    {% else %}
+      <a class="btn-link" href="{{ site.baseurl }}/">&larr; Volver al inicio</a>
+    {% endif %}
+
+    {% if page.next.url %}
+      <a class="btn-link" href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }} &rarr;</a>
+    {% endif %}
+  </nav>
+</article>
